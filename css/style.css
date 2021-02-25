@@ -1,0 +1,32 @@
+.box{
+    min-height: 100px;
+    background-color: red;
+    margin: 10px;}
+    .panel{
+    	padding: 20px 50px;
+    	text-align:center;
+    	font-size: 30px;
+    	background-color: teal;
+    	cursor: pointer;
+    }
+    .content{
+    	padding: 20px 50px;
+    	text-align:center;
+    	font-size: 30px;
+    	background-color: #ddd;
+    	display: none;
+    }
+      #draggable { width: 150px; height: 150px; padding: 0.5em; background-color: red;
+    }
+.red{
+	background-color: red;
+	min-height: 400px;
+}
+.green{
+	background-color: green;
+	min-height: 400px;
+}
+.blue{
+	background-color: blue;
+	min-height: 400px;
+}
